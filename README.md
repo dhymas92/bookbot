@@ -1,2 +1,3 @@
 # bookbot
-Bookbot to trawl books and collect and display some statistics.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
